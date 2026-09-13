@@ -62,8 +62,6 @@ arquitetura.
 
 ## 🚧 Construindo agora
 
-- Elevando o Sistema de Controle de Viagens a padrão de produção: testes automatizados,
-  PostgreSQL, Docker e CI
 - Análise de dados abertos do Banco Central sobre crédito cooperativo
 - Automação de rotinas operacionais de TI em Python
 
