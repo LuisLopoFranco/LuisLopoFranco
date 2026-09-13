@@ -73,19 +73,3 @@ arquitetura.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-gabriel-lopo/)
 
-
-<!--
-ANTES DE PUBLICAR:
-
-1. Stack "No trabalho": confirme UiPath e Power Platform. Estão no título do seu currículo
-   mas não descritos em nenhuma experiência. Se não usa hoje, mova para estudo ou remova.
-   Se usa, vale detalhar no LinkedIn — é seu maior diferencial para vagas de automação.
-
-2. Seção "Construindo agora": só mantenha item que você vai fazer nas próximas semanas.
-   Lista de intenção antiga é pior que lista curta. Atualize conforme concluir.
-
-3. E-mail fica público e indexável. Se preferir, apague o badge e deixe só o LinkedIn.
-
-4. Quando os projetos novos ficarem prontos, substitua o QuimiPort na seção de projetos —
-   documentação é o mais fraco dos três para mostrar código.
--->
