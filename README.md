@@ -40,9 +40,9 @@ Inteligência Artificial
 ## 📌 Projetos
 
 ### [Sistema de Controle de Viagens](https://github.com/LuisLopoFranco/Sistema-de-Controle-de-Viagens)
-Solicitação e aprovação de reembolso de viagens em Django. Três perfis de acesso com
-permissões distintas, fluxo de aprovação com histórico, cálculo automático de combustível e
-dashboard com rankings e filtros por período.
+Solicitação e aprovação de reembolso de viagens em Django. Três perfis de acesso,
+fluxo de aprovação com histórico, cálculo automático e upload validado por conteúdo.
+65 testes automatizados, 85% de cobertura, CI com PostgreSQL e deploy containerizado.
 
 `Python` `Django` `Bootstrap`
 
