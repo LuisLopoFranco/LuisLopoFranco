@@ -71,3 +71,10 @@ arquitetura.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-gabriel-lopo/)
 
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+          srcset="https://raw.githubusercontent.com/LuisLopoFranco/LuisLopoFranco/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)"
+          srcset="https://raw.githubusercontent.com/LuisLopoFranco/LuisLopoFranco/output/github-snake.svg" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/LuisLopoFranco/LuisLopoFranco/output/github-snake.svg" />
+</picture>
