@@ -1,12 +1,6 @@
-# Luis Gabriel Lopo
+# Olá, eu sou Luis Gabriel Lopo
 
-**Analista de Tecnologia da Informação no setor financeiro.** Sustento sistemas bancários,
-infraestrutura e integrações em uma cooperativa de crédito — e construo software.
-
-Quatro anos lidando com sistemas financeiros em produção me ensinaram o que quebra de
-verdade: conciliação que não fecha, integração que cai no meio do expediente, processo
-manual que ninguém documentou. Hoje uso esse repertório para desenvolver aplicações e
-analisar dados em cima de problemas que eu já vi acontecer.
+**Analista de Tecnologia da Informação no setor financeiro.** em mudança para  **Dados**.
 
 🎓 Tecnólogo em Análise e Desenvolvimento de Sistemas · Pós-graduação em Ciência de Dados e
 Inteligência Artificial
